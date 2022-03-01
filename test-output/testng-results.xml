@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-25T12:42:32 IST" name="Suite" finished-at="2022-02-25T12:45:03 IST" duration-ms="151445">
+    <groups>
+    </groups>
+    <test started-at="2022-02-25T12:42:32 IST" name="Test" finished-at="2022-02-25T12:45:03 IST" duration-ms="151445">
+      <class name="HMS.AdminLogin.DashboardTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HMS.AdminLogin.DashboardTest@42a48628]" started-at="2022-02-25T12:42:48 IST" name="setup" finished-at="2022-02-25T12:43:05 IST" duration-ms="16733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Dashboardcheck()[pri:0, instance:HMS.AdminLogin.DashboardTest@42a48628]" started-at="2022-02-25T12:43:05 IST" name="Dashboardcheck" finished-at="2022-02-25T12:43:06 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboardcheck -->
+        <test-method is-config="true" signature="exitprog()[pri:0, instance:HMS.AdminLogin.DashboardTest@42a48628]" started-at="2022-02-25T12:43:06 IST" name="exitprog" finished-at="2022-02-25T12:43:07 IST" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitprog -->
+      </class> <!-- HMS.AdminLogin.DashboardTest -->
+      <class name="HMS.AdminLogin.AddappTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HMS.AdminLogin.AddappTest@1283bb96]" started-at="2022-02-25T12:44:46 IST" name="setup" finished-at="2022-02-25T12:45:02 IST" duration-ms="16308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addapprunpage()[pri:0, instance:HMS.AdminLogin.AddappTest@1283bb96]" started-at="2022-02-25T12:45:02 IST" name="addapprunpage" finished-at="2022-02-25T12:45:03 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addapprunpage -->
+        <test-method is-config="true" signature="appaddpage()[pri:0, instance:HMS.AdminLogin.AddappTest@1283bb96]" started-at="2022-02-25T12:45:03 IST" name="appaddpage" finished-at="2022-02-25T12:45:03 IST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appaddpage -->
+      </class> <!-- HMS.AdminLogin.AddappTest -->
+      <class name="HMS.AdminLogin.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HMS.AdminLogin.LoginTest@515aebb0]" started-at="2022-02-25T12:42:32 IST" name="setup" finished-at="2022-02-25T12:42:38 IST" duration-ms="6359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpagetest()[pri:0, instance:HMS.AdminLogin.LoginTest@515aebb0]" started-at="2022-02-25T12:42:38 IST" name="loginpagetest" finished-at="2022-02-25T12:42:48 IST" duration-ms="9999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HMS.AdminLogin.LoginTest@515aebb0]" started-at="2022-02-25T12:42:48 IST" name="teardown" finished-at="2022-02-25T12:42:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- HMS.AdminLogin.LoginTest -->
+      <class name="HMS.AdminLogin.VisitorTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:43:29 IST" name="setup" finished-at="2022-02-25T12:43:49 IST" duration-ms="19476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="visitorpagerun([Ljava.lang.String;)[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:43:49 IST" name="visitorpagerun" data-provider="visdata" finished-at="2022-02-25T12:43:54 IST" duration-ms="5142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@67d180e4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitorpagerun -->
+        <test-method is-config="true" signature="entervalue()[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:43:54 IST" name="entervalue" finished-at="2022-02-25T12:43:54 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entervalue -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:43:54 IST" name="setup" finished-at="2022-02-25T12:44:14 IST" duration-ms="19695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="visitorpagerun([Ljava.lang.String;)[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:44:14 IST" name="visitorpagerun" data-provider="visdata" finished-at="2022-02-25T12:44:19 IST" duration-ms="5034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@54e18a46]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitorpagerun -->
+        <test-method is-config="true" signature="entervalue()[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:44:19 IST" name="entervalue" finished-at="2022-02-25T12:44:19 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entervalue -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:44:19 IST" name="setup" finished-at="2022-02-25T12:44:41 IST" duration-ms="22192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="visitorpagerun([Ljava.lang.String;)[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:44:41 IST" name="visitorpagerun" data-provider="visdata" finished-at="2022-02-25T12:44:46 IST" duration-ms="5041" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7816454d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitorpagerun -->
+        <test-method is-config="true" signature="entervalue()[pri:0, instance:HMS.AdminLogin.VisitorTest@6aeb35e6]" started-at="2022-02-25T12:44:46 IST" name="entervalue" finished-at="2022-02-25T12:44:46 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entervalue -->
+      </class> <!-- HMS.AdminLogin.VisitorTest -->
+      <class name="HMS.AdminLogin.FrontofficeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HMS.AdminLogin.FrontofficeTest@293a5bf6]" started-at="2022-02-25T12:43:07 IST" name="setup" finished-at="2022-02-25T12:43:26 IST" duration-ms="19243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="frontofficerun()[pri:0, instance:HMS.AdminLogin.FrontofficeTest@293a5bf6]" started-at="2022-02-25T12:43:26 IST" name="frontofficerun" finished-at="2022-02-25T12:43:29 IST" duration-ms="2735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frontofficerun -->
+      </class> <!-- HMS.AdminLogin.FrontofficeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
